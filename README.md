@@ -14,7 +14,7 @@ Utiliza transiciones CSS para simular el "tic-tac" mecánico y cálculos matemá
 
 ## 📸 Capturas de pantalla
 
-<!-- ![Vista previa del Reloj](./screenshot.png) -->
+![Vista previa del Reloj](./images/captura.png)
 
 ## 🚀 Instrucciones de instalación y ejecución
 Este proyecto no requiere dependencias externas ni instalación de paquetes.
